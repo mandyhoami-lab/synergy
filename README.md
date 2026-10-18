@@ -48,4 +48,4 @@ hit a bottleneck.
 
 outputs `Hi`.
 
-Built by [Mandy](https://amandata.dev) because every meeting could have been an email, but this one compiles.
+Built by [Mandy](https://amandata.dev) because every meeting could have been an email
